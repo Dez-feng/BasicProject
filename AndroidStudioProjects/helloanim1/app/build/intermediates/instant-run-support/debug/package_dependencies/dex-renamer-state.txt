@@ -1,0 +1,13 @@
+#Mon May 15 16:29:27 CST 2017
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+renamed.0=classes2.dex
+base.3=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_34d4d5583dea8629d9646e091b379557c9cc91a0
+base.2=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_d033400ec00e90c59f818d30d66f769c1cb3ed4e
+base.1=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_3a6cb7a7425b27ca2f76c9c0779c677f55a2934e
+base.0=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4472a89e81f54446b82e33bb0ddc3e65202d9817
+file.3=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_34d4d5583dea8629d9646e091b379557c9cc91a0\\classes.dex
+file.2=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_d033400ec00e90c59f818d30d66f769c1cb3ed4e\\classes.dex
+file.1=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_3a6cb7a7425b27ca2f76c9c0779c677f55a2934e\\classes.dex
+file.0=C\:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4472a89e81f54446b82e33bb0ddc3e65202d9817\\classes.dex

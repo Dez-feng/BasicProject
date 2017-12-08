@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.dez.styleandtheme.MainActivity">
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/buttonStyle"
+        android:onClick="onClick"
+        android:text="默认Toast"/>
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/buttonStyle"
+        android:onClick="onClick"
+        android:text="自定义显示位置"/>
+
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/buttonStyle"
+        android:onClick="onClick"
+        android:text="带图片"/>
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/buttonStyle"
+        android:onClick="onClick"
+        android:text="完全自定义"/>
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/buttonStyle"
+        android:onClick="onClick"
+        android:text="其他线程"/>
+
+
+</LinearLayout>

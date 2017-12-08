@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="0,1,2,3"
+    android:collapseColumns="2"
+    tools:context="com.example.dez.tablelayout.MainActivity">
+
+
+
+    <TableRow>
+
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+          android:text="name"
+          />
+
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="gender"
+            />
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="age"
+            />
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="phone_number"
+            />
+    </TableRow>
+
+
+    <TableRow>
+
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="lucy"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="female"
+            />
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="24"
+            />
+        <TextView
+            android:gravity="center"
+            android:padding="2dip"
+            android:text="32156"
+            />
+    </TableRow>
+</TableLayout>

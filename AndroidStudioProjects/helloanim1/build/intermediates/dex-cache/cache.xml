@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dez\.android\build-cache\664522c66cb92881c41b2054450113024415ea5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4472a89e81f54446b82e33bb0ddc3e65202d9817\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_d033400ec00e90c59f818d30d66f769c1cb3ed4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33ce79e15fd418255e382bf16c4d8fd7e624cc41">
+        <dex dex="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_31f93129d6f1e42e1732ac9a815961069bb7abb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dez\.android\build-cache\8ea5c650fc34988cf540a97b5f89f43be2a39054\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_3a6cb7a7425b27ca2f76c9c0779c677f55a2934e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dez\.android\build-cache\8ea5c650fc34988cf540a97b5f89f43be2a39054\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34d4d5583dea8629d9646e091b379557c9cc91a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Dez\AndroidStudioProjects\helloanim1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6df6112d01f760a6bb7b2b08ae2886d191317ef9\classes.dex" />
+    </item>
+
+</items>

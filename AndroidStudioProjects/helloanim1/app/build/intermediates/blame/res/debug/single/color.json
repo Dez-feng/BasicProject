@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dez\\AndroidStudioProjects\\helloanim1\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Dez\\.android\\build-cache\\664522c66cb92881c41b2054450113024415ea5d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]
